@@ -11,4 +11,4 @@ Do it, or nothing.<br>
   </div>
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dooseong.nam/)](https://www.instagram.com/dooseong.nam/) 
-[![Kakaomail Badge](https://img.shields.io/badge/-Kakaomail-d14836?style=flat-square&logo=Kakaomail&logoColor=white&link=mailto:nds95@kakao.com)](mailto:nds95@kakao.com)
+[![Kakaomail Badge](https://img.shields.io/badge/-Kakaomail-FFCD00?style=flat-square&logo=Kakaomail&logoColor=white&link=mailto:nds95@kakao.com)](mailto:nds95@kakao.com)
